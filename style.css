@@ -131,6 +131,10 @@ button:hover {
 @media screen and (min-width: 900px) {
   body {
     padding: 1rem 0;
+    width: 100vw;
+  }
+  .wrapper {
+    width: 90%;
   }
 }
 @media screen and (min-width: 1440px) {
