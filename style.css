@@ -133,9 +133,9 @@ button:hover {
     /* height: 100%; */
     margin: 0;
   }
-  .score {
+  /* .score {
     display: none;
-  }
+  } */
 }
 @media screen and (min-width: 900px) {
   body {
