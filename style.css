@@ -127,6 +127,8 @@ button:hover {
     max-width: 400px;
     border-radius: 15px;
     overflow: hidden;
+    width: 80%;
+    background: red;
   }
 }
 @media screen and (min-width: 900px) {
